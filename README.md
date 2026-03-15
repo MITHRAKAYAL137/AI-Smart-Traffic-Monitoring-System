@@ -42,7 +42,6 @@ streamlit run app.py
 - Total Vehicles
 - Vehicles in Frame
 - Traffic Density
-- Vehicles per Minute
 
 ## Future Improvements
 - Traffic trend analysis
