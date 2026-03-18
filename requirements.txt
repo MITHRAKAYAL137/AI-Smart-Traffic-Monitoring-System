@@ -4,3 +4,5 @@ ultralytics==8.0.20
 pillow==9.5.0
 numpy==1.26.4
 pandas==2.0.3
+setuptools==68.0.0
+wheel
